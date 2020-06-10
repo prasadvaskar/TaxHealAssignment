@@ -25,9 +25,9 @@
         </div>
         
         <div class="nav-links">
-            <a href="index.php" target="_blank">Home</a>
-          <a href="opportunities.php" target="_blank">Opportuniites</a>
-          <a href="hrlogin.php" target="_blank">HR Login</a>
+            <a href="index.php">Home</a>
+          <a href="opportunities.php" >Opportuniites</a>
+          <a href="hrlogin.php" >HR Login</a>
         </div>
       </div>
       <div id="maps">

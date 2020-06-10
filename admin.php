@@ -80,7 +80,7 @@
     ?>
     
     </table>
-    <button type="submit" value="submit" class="btn">Logout</button>
+    <a href="logout.php">Logout</a>
 </body>
 
 </html> 

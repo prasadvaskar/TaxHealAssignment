@@ -25,15 +25,15 @@
         </div>
         
         <div class="nav-links">
-            <a href="index.php" target="_blank">Home</a>
-          <a href="opportunities.php" target="_blank">Opportuniites</a>
-          <a href="contactus.php" target="_blank">Contact Us</a>
+            <a href="index.php" >Home</a>
+          <a href="opportunities.php" >Opportuniites</a>
+          <a href="contactus.php" >Contact Us</a>
           
         </div>
       </div>
       <div>
         <div class="form-popup" id="myForm">
-            <form  class="form-container">
+            <form action="connection.php" method="POST" class="form-container">
               <h1>Login</h1>
               <label for="username" ><b>UserName</b></label>
               <input type="text" placeholder="Enter username" name="username" required>
@@ -42,7 +42,7 @@
               <input type="password" placeholder="Password" name="pwd" required>
           
               
-              <button type="submit" class="btn">Register</button>
+              <button type="submit" name="Login" class="btn">Login</button>
             </form>
           </div>
       </div>

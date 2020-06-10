@@ -9,7 +9,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 
 
 
-$name =  $_POST['name'];
+$name =  $_POST['name'];    
 $email = $_POST['email'];
 $education = $_POST['education'];
 $college = $_POST['clg'];

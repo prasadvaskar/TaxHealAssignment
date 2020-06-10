@@ -25,9 +25,9 @@
     </div>
 
     <div class="nav-links">
-      <a href="index.html" target="_blank">Home</a>
-      <a href="contactus.html" target="_blank">Contact Us</a>
-      <a href="hrlogin.html" target="_blank">HR Login</a>
+      <a href="index.php" >Home</a>
+      <a href="contactus.php" >Contact Us</a>
+      <a href="hrlogin.php" >HR Login</a>
     </div>
   </div>
   <div id="hiring">

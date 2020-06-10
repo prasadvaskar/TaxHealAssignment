@@ -25,9 +25,9 @@
         </div>
         
         <div class="nav-links">
-          <a href="opportunities.php" target="_blank">Opportuniites</a>
-          <a href="contactus.php" target="_blank">Contact Us</a>
-          <a href="hrlogin.php" target="_blank">HR Login</a>
+          <a href="opportunities.php" >Opportuniites</a>
+          <a href="contactus.php" >Contact Us</a>
+          <a href="hrlogin.php" >HR Login</a>
         </div>
       </div>
       <div id="hiring">
