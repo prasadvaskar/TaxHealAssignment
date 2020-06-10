@@ -23,10 +23,12 @@ VALUES('$name','$email','$education','$college','$date','$mobile','$city')";
 
 if (mysqli_query($conn, $sql)) {
     echo "New record created successfully !";
+    header('Refresh: 5; URL=opportunities.php');
  } else {
     echo "Error: " . $sql . "
 " . mysqli_error($conn);
  }
+
 
 $conn->close();
 ?>

@@ -25,9 +25,9 @@
         </div>
         
         <div class="nav-links">
-            <a href="index.html" target="_blank">Home</a>
-          <a href="opportunities.html" target="_blank">Opportuniites</a>
-          <a href="contactus.html" target="_blank">Contact Us</a>
+            <a href="index.php" target="_blank">Home</a>
+          <a href="opportunities.php" target="_blank">Opportuniites</a>
+          <a href="contactus.php" target="_blank">Contact Us</a>
           
         </div>
       </div>
