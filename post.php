@@ -22,7 +22,7 @@ VALUES('$name','$email','$education','$college','$date','$mobile','$city')";
 
 
 if (mysqli_query($conn, $sql)) {
-    echo "New record created successfully !";
+    echo "New record created successfully ! You will be redirected automatically in few seconds";
     header('Refresh: 5; URL=opportunities.php');
  } else {
     echo "Error: " . $sql . "
